@@ -3,15 +3,16 @@
 	"id": "morepottedplants",
 	"version": "${version}",
 	"name": "MorePottedPlants",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "adds more potted plants to the game! all of them in fact!",
 	"authors": [
-		"Me!"
+		"pretty much everything: owenxm",
+		"big time help and early coding assistance: goopswagger",
+		"special thanks: skeletonizermal and pebmun65"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/owenxm/morepottedplants-template-1.20.4"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/morepottedplants/icon.png",
 	"environment": "*",
 	"entrypoints": {
