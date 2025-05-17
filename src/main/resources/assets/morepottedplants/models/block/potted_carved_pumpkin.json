@@ -1,0 +1,8 @@
+{
+  "parent": "morepottedplants:block/flower_pot_gourd_block_facing",
+  "textures": {
+    "gourd": "minecraft:block/pumpkin_side",
+    "gourdtop": "minecraft:block/pumpkin_top",
+	"face": "minecraft:block/carved_pumpkin"
+  }
+}

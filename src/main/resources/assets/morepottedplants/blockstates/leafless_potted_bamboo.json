@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "leaf=false": {
+      "model": "morepottedplants:block/leafless_potted_bamboo"
+    },
+    "leaf=true": {
+      "model": "minecraft:block/potted_bamboo"
+    }
+  }
+}

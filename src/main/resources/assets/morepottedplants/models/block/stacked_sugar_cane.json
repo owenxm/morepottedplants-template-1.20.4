@@ -1,0 +1,28 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "block/sugar_cane",
+		"plant": "block/sugar_cane"
+	},
+	"elements": [
+		{
+			"from": [5.2, 0, 5],
+			"to": [10.6, 16, 5],
+			"rotation": {"angle": 45, "axis": "y", "origin": [11, 4, 5], "rescale": true},
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#plant"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#plant"}
+			}
+		},
+		{
+			"from": [5, 0, 5.4],
+			"to": [5, 16, 10.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [5, 4, 5], "rescale": true},
+			"faces": {
+				"east": {"uv": [4, 0, 12, 16], "texture": "#plant"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#plant"}
+			}
+		}
+	]
+}

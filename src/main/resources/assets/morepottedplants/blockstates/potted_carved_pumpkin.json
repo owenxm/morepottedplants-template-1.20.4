@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "morepottedplants:block/potted_carved_pumpkin",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "morepottedplants:block/potted_carved_pumpkin"
+    },
+    "facing=south": {
+      "model": "morepottedplants:block/potted_carved_pumpkin",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "morepottedplants:block/potted_carved_pumpkin",
+      "y": 270
+    }
+  }
+}

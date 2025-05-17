@@ -1,0 +1,6 @@
+{
+  "parent": "morepottedplants:block/flower_pot_gourd_stage4",
+  "textures": {
+    "plant": "minecraft:block/melon_stem"
+  }
+}

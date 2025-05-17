@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/flower_pot_cross",
+  "textures": {
+    "plant": "morepottedplants:block/potted_wheat_crop_stage6"
+  }
+}

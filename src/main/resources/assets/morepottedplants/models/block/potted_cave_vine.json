@@ -1,0 +1,7 @@
+{
+  "parent": "morepottedplants:block/flower_pot_hanging",
+  "textures": {
+    "plant": "morepottedplants:block/potted_cave_vine",
+	"planttop": "morepottedplants:block/potted_cave_vine_top"
+  }
+}

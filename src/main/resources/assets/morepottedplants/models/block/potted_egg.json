@@ -1,0 +1,6 @@
+{
+  "parent": "morepottedplants:block/flower_pot_egg",
+  "textures": {
+    "plant": "morepottedplants:block/potted_egg"
+  }
+}

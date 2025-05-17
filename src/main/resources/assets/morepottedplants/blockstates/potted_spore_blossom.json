@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=true": {
+      "model": "morepottedplants:block/potted_spore_blossom"
+    },
+	    "hanging=false": {
+      "model": "morepottedplants:block/potted_spore_blossom_grounded"
+    }
+  }
+}

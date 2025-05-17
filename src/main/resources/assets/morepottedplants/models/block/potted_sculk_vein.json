@@ -1,0 +1,6 @@
+{
+  "parent": "morepottedplants:block/flower_pot_hanging_short",
+  "textures": {
+    "plant": "morepottedplants:block/potted_sculk_vein"
+  }
+}

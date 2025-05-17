@@ -1,0 +1,6 @@
+{
+  "parent": "morepottedplants:block/flower_pot_water",
+  "textures": {
+    "plant": "minecraft:block/dead_horn_coral"
+  }
+}

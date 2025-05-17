@@ -1,0 +1,6 @@
+{
+  "parent": "morepottedplants:block/flower_pot_water_fan",
+  "textures": {
+    "plant": "minecraft:block/tube_coral_fan"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "berries=false,hanging=true": {
+      "model": "morepottedplants:block/potted_cave_vine"
+    },
+    "berries=true,hanging=true": {
+      "model": "morepottedplants:block/potted_cave_vine_lit"
+    },
+    "berries=false,hanging=false": {
+      "model": "morepottedplants:block/potted_cave_vine_grounded"
+    },
+    "berries=true,hanging=false": {
+      "model": "morepottedplants:block/potted_cave_vine_grounded_lit"
+    }
+  }
+}

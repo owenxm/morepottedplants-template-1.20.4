@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=true": {
+      "model": "morepottedplants:block/potted_glow_lichen"
+    },
+	    "hanging=false": {
+      "model": "morepottedplants:block/potted_glow_lichen_grounded"
+    }
+  }
+}

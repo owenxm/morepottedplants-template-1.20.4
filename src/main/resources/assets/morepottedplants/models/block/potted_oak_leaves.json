@@ -1,0 +1,6 @@
+{
+  "parent": "morepottedplants:block/tinted_flower_pot_block",
+  "textures": {
+    "all": "block/oak_leaves"
+  }
+}

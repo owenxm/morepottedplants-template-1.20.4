@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "morepottedplants:block/potted_potato_crop_stage0"
+    },
+    "age=1": {
+      "model": "morepottedplants:block/potted_potato_crop_stage0"
+    },
+    "age=2": {
+      "model": "morepottedplants:block/potted_potato_crop_stage1"
+    },
+    "age=3": {
+      "model": "morepottedplants:block/potted_potato_crop_stage1"
+    },
+    "age=4": {
+      "model": "morepottedplants:block/potted_potato_crop_stage2"
+    },
+    "age=5": {
+      "model": "morepottedplants:block/potted_potato_crop_stage2"
+    },
+    "age=6": {
+      "model": "morepottedplants:block/potted_potato_crop_stage2"
+    },
+    "age=7": {
+      "model": "morepottedplants:block/potted_potato_crop_stage3"
+    }
+  }
+}

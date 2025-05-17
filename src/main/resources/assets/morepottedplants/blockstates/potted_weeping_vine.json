@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=true": {
+      "model": "morepottedplants:block/potted_weeping_vine"
+    },
+	    "hanging=false": {
+      "model": "morepottedplants:block/potted_weeping_vine_grounded"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "morepottedplants:block/flower_pot_gourd_block",
+  "textures": {
+    "gourd": "minecraft:block/melon_side",
+    "gourdtop": "minecraft:block/melon_top"
+  }
+}

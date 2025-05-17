@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"4": "block/spore_blossom_base",
+		"5": "block/spore_blossom",
+		"particle": "block/flower_pot",
+		"flowerpot": "block/flower_pot"
+	},
+	"elements": [
+		{
+			"from": [0, 6.3, -8],
+			"to": [16, 6.3, 8],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [0, 6, 8]},
+			"faces": {
+				"up": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#5"},
+				"down": {"uv": [0, 16, 16, 0], "texture": "#5"}
+			}
+		},
+		{
+			"from": [0, 6.3, 8],
+			"to": [16, 6.3, 24],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [0, 6, 8]},
+			"faces": {
+				"up": {"uv": [0, 16, 16, 0], "texture": "#5"},
+				"down": {"uv": [0, 16, 16, 0], "rotation": 180, "texture": "#5"}
+			}
+		},
+		{
+			"from": [-8, 6.3, 0],
+			"to": [8, 6.3, 16],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 6, 0]},
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#5"},
+				"down": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#5"}
+			}
+		},
+		{
+			"from": [8, 6.3, 0],
+			"to": [24, 6.3, 16],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 6, 0]},
+			"faces": {
+				"up": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#5"},
+				"down": {"uv": [16, 0, 0, 16], "rotation": 90, "texture": "#5"}
+			}
+		},
+		{
+			"from": [1, 6.1, 1],
+			"to": [15, 6.1, 15],
+			"shade": false,
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 22, 0]},
+			"faces": {
+				"up": {"uv": [1, 15, 15, 1], "texture": "#4"},
+				"down": {"uv": [1, 15, 15, 1], "texture": "#4"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [11, 6, 11],
+			"faces": {
+				"north": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+				"east": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+				"south": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+				"west": {"uv": [5, 10, 11, 16], "texture": "#flowerpot"},
+				"down": {"uv": [5, 10, 11, 16], "texture": "#flowerpot", "cullface": "down"}
+			}
+		}
+	]
+}

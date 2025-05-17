@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=true": {
+      "model": "morepottedplants:block/potted_sculk_vein"
+    },
+	    "hanging=false": {
+      "model": "morepottedplants:block/potted_sculk_vein_grounded"
+    }
+  }
+}

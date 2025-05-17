@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "package": "com.owenxm.morepottedplants.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "BambooBlockMixin",
+    "CactusBlockMixin",
+    "ExampleMixin",
+    "FlowerPotBlockMixin",
+    "SugarCaneBlockMixin",
+    "RenderLayersMixin2"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+
+  ]
+}

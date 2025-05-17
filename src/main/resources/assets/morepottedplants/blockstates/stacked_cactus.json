@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+	{
+      "model": "morepottedplants:block/stacked_cactus"
+    },
+	{
+      "model": "morepottedplants:block/stacked_cactus2"
+    }
+	]
+  }
+}

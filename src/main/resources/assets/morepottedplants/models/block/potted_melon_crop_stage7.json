@@ -1,0 +1,9 @@
+{
+  "parent": "morepottedplants:block/flower_pot_gourd_stage7",
+  "textures": {
+    "stem": "minecraft:block/melon_stem",
+    "upperstem": "minecraft:block/attached_melon_stem",
+    "gourd": "minecraft:block/melon_side",
+    "gourdtop": "minecraft:block/melon_top"
+  }
+}

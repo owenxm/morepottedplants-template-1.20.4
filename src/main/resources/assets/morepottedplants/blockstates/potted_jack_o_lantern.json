@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "morepottedplants:block/potted_jack_o_lantern",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "morepottedplants:block/potted_jack_o_lantern"
+    },
+    "facing=south": {
+      "model": "morepottedplants:block/potted_jack_o_lantern",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "morepottedplants:block/potted_jack_o_lantern",
+      "y": 270
+    }
+  }
+}

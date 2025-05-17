@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=true": {
+      "model": "morepottedplants:block/potted_hanging_roots"
+    },
+    "hanging=false": {
+      "model": "morepottedplants:block/potted_hanging_roots_grounded"
+    }
+  }
+}

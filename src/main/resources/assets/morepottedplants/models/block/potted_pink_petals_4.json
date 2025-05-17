@@ -1,0 +1,7 @@
+{
+  "parent": "morepottedplants:block/flower_pot_flowerbed_4",
+  "textures": {
+    "plant": "block/pink_petals",
+	"plant_stem": "block/pink_petals_stem"
+  }
+}

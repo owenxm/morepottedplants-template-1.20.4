@@ -1,0 +1,9 @@
+{
+  "parent": "morepottedplants:block/flower_pot_gourd_stage7",
+  "textures": {
+    "stem": "minecraft:block/pumpkin_stem",
+    "upperstem": "minecraft:block/attached_pumpkin_stem",
+    "gourd": "minecraft:block/pumpkin_side",
+    "gourdtop": "minecraft:block/pumpkin_top"
+  }
+}

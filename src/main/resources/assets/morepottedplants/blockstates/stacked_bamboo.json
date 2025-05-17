@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "leaf=true": {
+      "model": "morepottedplants:block/stacked_bamboo_top"
+    },
+	    "leaf=false": {
+      "model": "morepottedplants:block/stacked_bamboo"
+    }
+  }
+}

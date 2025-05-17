@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "morepottedplants:block/potted_cocoa_bean_stage0"
+    },
+    "age=1": {
+      "model": "morepottedplants:block/potted_cocoa_bean_stage1"
+    },
+    "age=2": {
+      "model": "morepottedplants:block/potted_cocoa_bean_stage2"
+    },
+    "age=3": {
+      "comment": "originally, cocoa beans used Age3PottedCropBlock",
+      "comment2": "but this led to problems. so, now it's Age2PottedCropBlock!",
+      "comment3": "I love leaving stuff in files for fun!",
+      "comment4": "as an additional aside, I had to frankenstein the texture",
+      "comment5": "because they changed the texture of stage2. god bless.",
+      "model": "morepottedplants:block/potted_cocoa_bean_stage2"
+    }
+  }
+}

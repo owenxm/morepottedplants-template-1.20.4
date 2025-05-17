@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "morepottedplants:block/potted_tall_seagrass_top"
+    },
+    "half=lower": {
+      "model": "morepottedplants:block/potted_tall_seagrass_bottom"
+    }
+  }
+}

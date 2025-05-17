@@ -1,0 +1,8 @@
+{
+  "parent": "morepottedplants:block/flower_pot_hanging_grounded",
+  "textures": {
+    "plant": "morepottedplants:block/potted_hanging_roots",
+	    "planttop": "morepottedplants:block/potted_hanging_roots_top",
+	"plantbottom": "morepottedplants:block/potted_hanging_roots_bottom"
+  }
+}
